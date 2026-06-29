@@ -36,7 +36,7 @@ IllumiCurveNet combines a multi-scale encoder-decoder architecture with a spatia
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/JustSurWHYving/illumi-curve-net.git
+   git clone https://github.com/SparshJain769/Illumicurvenet.git
    cd illumi-curve-net
    ```
 2. **Create a virtual environment (optional but recommended):**
